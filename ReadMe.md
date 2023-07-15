@@ -23,7 +23,7 @@ Defines the .NET Remoting interface.
 Defines the .NET Remoting server.
 - **MessagePassingServer**:
 Defines the message passing server.
-- **Client**
+- **Client**:
 Client for the remoting server as well as the message passing server.
 
 ![Module diagram](Images/ModuleDiagram.jpg)
